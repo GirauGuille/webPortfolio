@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "title": "Diseñado Gráfico",
+        "institucion": "UAI",
+        "year": "2010",
+        "logoI": "UAI.jpg",
+        "img": "titulo_diseño_grafico.jpg",
+        "tools": ["photoshop.png", "illustrator.png", "afterEffects.png", "indesign.png"]
+    },
+    {
+        "id":2,
+        "title": "Desarrollo web",
+        "institucion": "Coderhouse",
+        "year": "2022",
+        "logoI": "coder3.jpeg",
+        "img": "titulo_desarrollo_web.png",
+        "tools": ["html.png","css.png","sass.png", "bootstrap.png"]
+    },
+    {
+        "id":3,
+        "title": "Javascript",
+        "institucion": "Coderhouse",
+        "year": "2022",
+        "logoI": "coder3.jpeg",
+        "img": "titulo_javascript.png",
+        "tools": ["javascript.png"]
+    },
+    {
+        "id":4,
+        "title": "React",
+        "institucion": "Coderhouse",
+        "year": "2023",
+        "logoI": "coder3.jpeg",
+        "img": "titulo_react.png",
+        "tools": ["react.png"]
+    },
+    {
+        "id":5,
+        "title": "Backend",
+        "institucion": "Coderhouse",
+        "year": "2023",
+        "logoI": "coder3.jpeg",
+        "img": "titulo_backend.png",
+        "tools": ["nodo.png", "mongodb.png", "expresarjs.png"]
+    }
+]
