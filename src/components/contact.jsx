@@ -10,7 +10,7 @@ function contact() {
             <h2 className='cTitle'>CONTACTAME</h2>
             <div className="contactoBox">
                 <div className="cInfo">
-                    <p className="cTexto">Pongamos en contacto y hagamos un gran proyecto juntos.</p>
+                    <p className="cTexto">Pongamosnos en contacto y hagamos un gran proyecto juntos.</p>
                     <div className='linkBox'>
                         <button className="btnC">
                             <a href="https://wa.me/33127266" target="_blank"> <FaSquareWhatsapp size={40} /></a>

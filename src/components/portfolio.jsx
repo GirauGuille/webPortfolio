@@ -18,7 +18,7 @@ function portfolio() {
                     <li
                         className={activeSection === 'education' ? 'active' : ''}
                         onClick={() => handleSectionChange('education')}>
-                        EDUCACIÓN
+                        FORMACIÓN
                     </li>
                     <li
                         className={activeSection === 'skills' ? 'active' : ''}

@@ -15,10 +15,10 @@ function App() {
                 <button onClick={() => setFilter('diseño')}>Filtrar por Diseño</button>
                 <button onClick={() => setFilter('backend')}>Filtrar por Backend</button> */}
 
-                {skillsData.map((item) => (
-                    <div className="progress__circle">
+                {skillsData.map((item, index) => (
+                    <div key={index} className="progress__circle">
                     <CircularProgressbarWithChildren strokeWidth={6} variant="determinate" value={item.percent} styles={buildStyles({ pathColor: "green", trailColor: "black", pathTransitionDuration: 0.5 })}>
-                        <img src={`../src/img/tools/${item.icon}`} className='iconSills' alt="" />
+                        <img src={item.icon} className='iconSills' alt="" />
                     </CircularProgressbarWithChildren>
                     </div>
                 ))}

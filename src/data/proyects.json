@@ -4,25 +4,28 @@
         "name":"Mi Portfolio",
         "description":"Portfolio de mi trabajo como programador.",
         "categoria": "diseño gráfico, desarrollo web",
-        "img": "portfolio.png",
+        "github": "",
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fportfolio.png?alt=media&token=d4a204b5-47d7-4b2b-a531-21da70524e58",
         "url":"https://miportafolio.com",
         "tools": []
     },
     {
         "id":2,
         "name":"Giraucar",
-        "description":"eccomers de agencia de autos como Kavak",
+        "description":"E-commerce de agencia de autos",
         "categoria": "diseño gráfico, desarrollo web",
-        "img": "web.jpg",
+        "github": "",
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fweb.jpg?alt=media&token=25294292-01f5-4bb9-b419-79b0f48c446e",
         "url":"https://miportafolio.com",
         "tools": []
     },
     {
         "id":3,
         "name":"Corralon 200",
-        "description":"eccomers de un corralón",
+        "description":"E-commerce de corralón",
         "categoria": "diseño gráfico, desarrollo web",
-        "img": "web.jpg",
+        "github": "https://github.com/GirauGuille/webPortfolio.git",
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fweb.jpg?alt=media&token=25294292-01f5-4bb9-b419-79b0f48c446e",
         "url":"https://miportafolio.com",
         "tools": []
     }

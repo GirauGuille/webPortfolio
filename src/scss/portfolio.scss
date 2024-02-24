@@ -7,20 +7,52 @@
 
     nav {
         background-color: grey;
-        width: 100%;
-        text-align: center;
-        padding: 0.5rem;
+        padding: 0.8rem;
+        text-transform: uppercase;
 
         ul {
             display: flex;
             flex-direction: row;
             justify-content: space-around;
-            padding: 5px;
-            color: var(--verde-claro);
+            padding: 8px;
             font-weight: bold;
-            font-size: 25px;
-            letter-spacing: 3px;
+            font-size: 20px;
+            
+            li{
+                color: black;
+                
+                padding: 2px;
+                letter-spacing: 3px;
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                &.active{
+                color: var(--verde-claro);
+                
+                }
+                .active::before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    width: 20px;
+                    height: 20px;
+                    border-top: 2px solid green;
+                    border-right: 2px solid green;
+                }
+                .active::after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 20px;
+                    height: 20px;
+                    border-bottom: 2px solid green;
+                    border-left: 2px solid green;
+                }
+            }
         }
+
     }
 
     /* EDUCATION */
@@ -124,6 +156,7 @@
                         }
                     }
                 }
+
                 .imgSchool {
                     display: none;
                 }
@@ -160,7 +193,7 @@
                 }
             }
         }
-        }
+    }
 
 
 

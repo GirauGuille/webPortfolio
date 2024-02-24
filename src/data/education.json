@@ -1,47 +1,42 @@
 [
     {
         "id":1,
-        "title": "Diseñado Gráfico",
+        "title": "Diseño Gráfico",
         "institucion": "UAI",
         "year": "2010",
-        "logoI": "UAI.jpg",
-        "img": "titulo_diseño_grafico.jpg",
-        "tools": ["photoshop.png", "illustrator.png", "afterEffects.png", "indesign.png"]
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Ftitulo_dise%C3%B1o_grafico.jpg?alt=media&token=4b620628-d775-477b-894b-d93e4b25413c",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fphotoshop.png?alt=media&token=260c5699-c067-45ff-b27a-0d78f024cf3d", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fillustrator.png?alt=media&token=973931c5-8b83-4ae9-959e-a3a240ad2c91", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2FafterEffects.png?alt=media&token=f69e2b5d-ee44-4a97-9c9f-4989bfe3a8b0", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Findesign.png?alt=media&token=2bd19f1d-79f3-47af-85db-dc2f541582d5"]
     },
     {
         "id":2,
         "title": "Desarrollo web",
         "institucion": "Coderhouse",
         "year": "2022",
-        "logoI": "coder3.jpeg",
-        "img": "titulo_desarrollo_web.png",
-        "tools": ["html.png","css.png","sass.png", "bootstrap.png"]
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Ftitulo_desarrollo_web.png?alt=media&token=e847f5b2-e85d-499c-8bb6-8fa47ea9ae82",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fhtml.png?alt=media&token=d1fca956-f06b-4f1e-b254-1a801157c95c","https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fcss.png?alt=media&token=fe958a97-192f-4c70-8376-64a034824fff","https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fsass.png?alt=media&token=ac842014-b7c9-43d5-82bd-13fcec3a23f2", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fbootstrap.png?alt=media&token=fa52892d-e2af-4fda-b5cd-a26b48d067a7"]
     },
     {
         "id":3,
         "title": "Javascript",
         "institucion": "Coderhouse",
         "year": "2022",
-        "logoI": "coder3.jpeg",
-        "img": "titulo_javascript.png",
-        "tools": ["javascript.png"]
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Ftitulo_javascript.png?alt=media&token=e73b57fc-e1d5-43a6-bd92-2c322ff279b4",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fjavascript.png?alt=media&token=52577808-a0d1-45ac-afa8-3495dd6edd2f"]
     },
     {
         "id":4,
         "title": "React",
         "institucion": "Coderhouse",
         "year": "2023",
-        "logoI": "coder3.jpeg",
-        "img": "titulo_react.png",
-        "tools": ["react.png"]
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Ftitulo_react.png?alt=media&token=dd85bcdf-7821-4cd6-878a-ea900479f06c",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Freact.png?alt=media&token=0c57e540-9d15-422c-9055-8b074bf5da86"]
     },
     {
         "id":5,
         "title": "Backend",
         "institucion": "Coderhouse",
         "year": "2023",
-        "logoI": "coder3.jpeg",
-        "img": "titulo_backend.png",
-        "tools": ["nodo.png", "mongodb.png", "expresarjs.png"]
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Ftitulo_backend.png?alt=media&token=84449c4b-f7d4-4f78-ba17-b41e4399157e",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fnodo.png?alt=media&token=465a7032-7416-46e0-8510-4437010b4878", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fmongodb2.png?alt=media&token=0e7b3784-a34a-4e0f-9de4-e54490df11ce", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fexpresarjs.png?alt=media&token=49fffcde-2eec-42fe-b5e6-5741d2585c0b"]
     }
 ]

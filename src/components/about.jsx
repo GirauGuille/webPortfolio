@@ -1,5 +1,5 @@
 import React from 'react'
-import yo from '../img/yo2.png'
+import yo from '../img/yo3.png'
 import cvPdf from '../img/GuillermoGirauCV.pdf'
 import TypewriterWithAuthor from "../components/TypewriterWithAuthor"
 
@@ -9,18 +9,15 @@ function about() {
             <h2 className='cTitle'>SOBRE MI</h2>
             <div className="aboutInfo">
                 <div className='sobreMi'>
-                    <p>Me forme para diseñar la imagen de empresas, crear logotipos, folletos, packaging, entre otras. También cuento con las herramientas necesarias para desarrollar aplicaciones y sitios web respondiendo a los intereses de los clientes.</p>
+                    <p>Nací en Buenos Aires, Argentina en el año <strong>1990</strong>. Al finalizar el secundario estudié <strong>"Diseño Gráfico"</strong>. Una carrera que me formó para diseñar la imagen de las empresas, crear logotipos, folletos, packaging, entre otras. Unos años después, decidí incorporarme en el mundo IT. En el 2023 me gradué con el curso de <strong>"Desarrollo web full Stack - MERN"</strong>, el cual me dió las herramientas necesarias para desarrollar aplicaciones y sitios web respondiendo a los intereses de los clientes.</p>
                     <div className="personalData">
-                        <span className='data'><b>Nombre:</b> Guillermo Lucas Girau</span>
-                        <span className='data'><b>Fecha de nacimiento:</b>  26/01/1990</span>
-                        <span className='data'><b>Nacionalidad:</b> Argentino</span>
-                        <span className='data'><b>Dirección:</b> Buenos Aires, Argentina</span>
-                        <span className='data'><b>Correo:</b> giraugguillermo@gmail.com</span>
+{/*                         
+                        <span className='data'><b>Correo:</b> girauguillermo@gmail.com</span>
                         <span className='data'><b>Teléfono:</b> 1133127266</span>
-                        <span className='data'><b>Idiomas:</b> Español, Ingles</span>
+                        <span className='data'><b>Idiomas:</b> Español, Ingles</span> */}
                     </div>
                     <button className="btnCV">
-                        <a href={cvPdf} target="_blank">DESCARGA MI CV</a>
+                        <a href={cvPdf} target="_blank">DESCARGÁ MI CV</a>
                     </button>
                 </div>
                 <img className='foto' src={yo} alt="Guillermo Lucas Girau" />

@@ -17,7 +17,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        Si estas buscando crear tu marca, hacer publicidad, packagin, tu sitio web o tu aplicación mobile estás en el sitio indicado. Conoce un poco sobre mi con el siguiente enlace y pongamonos en contacto.
+                        Si estas buscando crear tu marca, hacer publicidad, packagin, tu sitio web o tu aplicación mobile estás en el sitio indicado. Conoce un poco sobre mi con el siguiente enlace y entremos en contacto.
                     </p>
                     <Link to='about' activeClass='active' smooth={true} spy={true} className='btnSobreMi'>
                         SOBRE MI

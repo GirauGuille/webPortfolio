@@ -16,13 +16,13 @@ function education() {
                             </div>
                         </div>
                         <div className="content">
-                            <img className='imgTitle' src={`../src/img/title/${item.img}`} alt={item.title} />
+                            <img className='imgTitle' src={item.img} alt={item.title} />
                             <div className='infoCourse'>
                                 <div className="title"><b>{item.title}</b></div>
                                 <div className="school">{item.institucion}</div>
                             <div className="toolsCourse">
                                 {item.tools.map((tools, index) => (
-                                    <img key={index} className='toolImage' src={`../src/img/tools/${tools}`} alt={`Tool ${index + 1}`} />
+                                    <img key={index} className='toolImage' src={tools} alt={`Tool ${index + 1}`} />
                                 ))}
                             </div>
                             </div>
