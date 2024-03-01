@@ -8,7 +8,7 @@ const Intro = () => {
             <div className="i-left">
                 <div className="i-left-wrapper">
                     <h2 className="i-intro">Hola, mi nombre es</h2>
-                    <h1 className="i-name">Guillermo Lucas Girau</h1>
+                    <h1 className="i-name"><span>G</span>uillermo Lucas Girau</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Diseñador Gráfico</div>
@@ -17,16 +17,16 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        Si estas buscando crear tu marca, hacer publicidad, packagin, tu sitio web o tu aplicación mobile estás en el sitio indicado. Conoce un poco sobre mi con el siguiente enlace y entremos en contacto.
+                        Si estás buscando crear tu marca, hacer publicidad, packagin, tu sitio web o tu aplicación mobile estás en el sitio indicado. Conoce un poco sobre mi con el siguiente enlace y entremos en contacto.
                     </p>
                     <Link to='about' activeClass='active' smooth={true} spy={true} className='btnSobreMi'>
-                        SOBRE MI
-                        <BsFillArrowDownSquareFill />
+                        SOBRE MI  <BsFillArrowDownSquareFill className="sobreMiIcon"/>
+                        
                     </Link>
                 </div>
             </div>
             <div className="i-right">
-                <img className="i-img" src={logoGLG} alt="" />
+                <img className="i-img" src={logoGLG} alt="logo GLG" />
             </div>
         </section>
     );

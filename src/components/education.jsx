@@ -1,7 +1,6 @@
 import React from 'react'
 import college from '../data/education.json'
 
-
 function education() {
     return (
         <div className='timeLine'>
@@ -30,6 +29,25 @@ function education() {
                         </div>
                     </div>
                 ))}
+                <div className='infoTimeline'>
+                        <div className="time">
+                            <div className='date'><b>AHORA</b></div>
+                            <div className='decoration'>
+                                <div className="linea"></div>
+                                <div className="dot"></div>
+                            </div>
+                        </div>
+                        <div className="content">
+                            
+                            <img className='imgTitle' src="https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Fspiner.gif?alt=media&token=09a7788d-668a-41cf-a0d9-2ccd6a7f628f" alt="" />
+                            <div className='infoCourse'>
+                                <div className="title"><b>React Native</b></div>
+                                <div className="school">Youtube</div>
+                            <div className="toolsCourse"><img className='imgnative' src="https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Freact%20native.png?alt=media&token=0f353f20-516c-4447-9700-7a42cbe29e9f" alt="react native"/>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
             </div>
         </div>
     )

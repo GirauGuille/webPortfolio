@@ -16,6 +16,7 @@
             background-color: rgb(36, 35, 35);
             border-radius: 20px;
             max-width: 20rem;
+            height: 32rem;
             box-shadow: 4px 4px 8px 8px #888888;
 
             .imgPoyects {
@@ -36,9 +37,10 @@
                 }
                 .links {
                     text-align: center;
-                    margin-bottom: 8px;
+                    margin: 8px;
                     .btnL a {
                         color: var(--verde-claro);
+                        margin: 5px;
                     }
                 }
                 .text {

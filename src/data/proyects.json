@@ -2,31 +2,30 @@
     {
         "id":1,
         "name":"Mi Portfolio",
-        "description":"Portfolio de mi trabajo como programador.",
+        "description":"Mi Portfolio web. Diseñe mi marca personal y desarrolle el sitio basandome en los colores y el estilo del logo.",
         "categoria": "diseño gráfico, desarrollo web",
-        "github": "",
+        "github": "https://github.com/GirauGuille/webPortfolio.git",
         "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fportfolio.png?alt=media&token=d4a204b5-47d7-4b2b-a531-21da70524e58",
-        "url":"https://miportafolio.com",
-        "tools": []
+        "url":"https://guillegirau.netlify.app",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fhtml.png?alt=media&token=d1fca956-f06b-4f1e-b254-1a801157c95c", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Freact.png?alt=media&token=0c57e540-9d15-422c-9055-8b074bf5da86", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fsass.png?alt=media&token=ac842014-b7c9-43d5-82bd-13fcec3a23f2", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fillustrator.png?alt=media&token=973931c5-8b83-4ae9-959e-a3a240ad2c91", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fphotoshop.png?alt=media&token=260c5699-c067-45ff-b27a-0d78f024cf3d"]
     },
     {
         "id":2,
         "name":"Giraucar",
-        "description":"E-commerce de agencia de autos",
+        "description":"E-commerce de agencia de autos. Diseñe la marca y desarrolle el sitio web.",
         "categoria": "diseño gráfico, desarrollo web",
-        "github": "",
-        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fweb.jpg?alt=media&token=25294292-01f5-4bb9-b419-79b0f48c446e",
-        "url":"https://miportafolio.com",
-        "tools": []
+        "github": "https://github.com/GirauGuille/javascriptGuillermoGirau.git",
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fgiraucar.jpg?alt=media&token=c964756c-9290-4eda-b68d-03af9ad065da",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fhtml.png?alt=media&token=d1fca956-f06b-4f1e-b254-1a801157c95c", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fcss.png?alt=media&token=fe958a97-192f-4c70-8376-64a034824fff", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fjavascript-50.png?alt=media&token=e3f4fe36-4a2e-43aa-aa61-48fd99c4bfd3", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fphotoshop.png?alt=media&token=260c5699-c067-45ff-b27a-0d78f024cf3d"]
     },
     {
         "id":3,
-        "name":"Corralon 200",
-        "description":"E-commerce de corralón",
-        "categoria": "diseño gráfico, desarrollo web",
-        "github": "https://github.com/GirauGuille/webPortfolio.git",
-        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fweb.jpg?alt=media&token=25294292-01f5-4bb9-b419-79b0f48c446e",
-        "url":"https://miportafolio.com",
-        "tools": []
+        "name":"Andamayo computacion",
+        "description":"Diseñe y desarrolle sitio web",
+        "categoria": "Desarrollo web",
+        "github": "https://github.com/GirauGuille/andamayocomputacion.git",
+        "img": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/projects%2Fandamayocomputaci%C3%B3n.jpg?alt=media&token=5760aaec-d324-4c59-a21e-24c61e2179d3",
+        "url":"https://andamayocomp.netlify.app",
+        "tools": ["https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fhtml.png?alt=media&token=d1fca956-f06b-4f1e-b254-1a801157c95c", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fcss.png?alt=media&token=fe958a97-192f-4c70-8376-64a034824fff", "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fbootstrap.png?alt=media&token=fa52892d-e2af-4fda-b5cd-a26b48d067a7"]
     }
 ]
