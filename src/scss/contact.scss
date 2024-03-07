@@ -1,8 +1,7 @@
 @import './abstracts/mixins';
 
 .contacto {
-
-
+    padding-top: 5px;
     .cTitle {
         @include title
     }
@@ -17,6 +16,7 @@
         align-items: center;
         .cTexto{
             margin: 5px;
+            font-size: 18px;
             text-align: center;
         }
         .linkBox {

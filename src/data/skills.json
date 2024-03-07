@@ -70,23 +70,37 @@
         "percent": "75"
     },
     {
-        "id": 3,
+        "id": 11,
         "title": "bootstrap",
         "icon": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fbootstrap.png?alt=media&token=fa52892d-e2af-4fda-b5cd-a26b48d067a7",
         "category": "frontend",
         "percent": "90"
     },
     {
-        "id": 3,
+        "id": 12,
         "title": "express",
         "icon": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fexpresarjs.png?alt=media&token=49fffcde-2eec-42fe-b5e6-5741d2585c0b",
         "category": "backend",
         "percent": "85"
     },
     {
-        "id": 3,
+        "id": 13,
         "title": "typescipt",
         "icon": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Ftypescipt.png?alt=media&token=b252ba64-fe6e-485b-99dd-f12552fb2e95",
+        "category": "backend, frontend",
+        "percent": "20"
+    },
+    {
+        "id": 14,
+        "title": "figma",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Ffigma-48.png?alt=media&token=689713cf-fb99-4115-8009-d5c91fd08367",
+        "category": "backend",
+        "percent": "50"
+    },
+    {
+        "id": 15,
+        "title": "Mysql",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/tools%2Fmysql-50.png?alt=media&token=4c14891c-cb4c-4bd8-84b0-6c7dc38a5c83",
         "category": "backend",
         "percent": "20"
     }

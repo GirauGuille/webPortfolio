@@ -38,8 +38,8 @@ function education() {
                             </div>
                         </div>
                         <div className="content">
-                            
-                            <img className='imgTitle' src="https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2Fspiner.gif?alt=media&token=09a7788d-668a-41cf-a0d9-2ccd6a7f628f" alt="" />
+
+                            <img className='imgTitle' src="https://firebasestorage.googleapis.com/v0/b/miportfolio-fc1de.appspot.com/o/title%2FEllipsis-3.1s-202px.gif?alt=media&token=635889ee-df9b-4f4b-983b-350c07aa076a" alt="" />
                             <div className='infoCourse'>
                                 <div className="title"><b>React Native</b></div>
                                 <div className="school">Youtube</div>

@@ -17,7 +17,7 @@ function App() {
 
                 {skillsData.map((item, index) => (
                     <div key={index} className="progress__circle">
-                    <CircularProgressbarWithChildren strokeWidth={6} variant="determinate" value={item.percent} styles={buildStyles({ pathColor: "green", trailColor: "black", pathTransitionDuration: 0.5 })}>
+                    <CircularProgressbarWithChildren strokeWidth={6} variant="determinate" value={item.percent} styles={buildStyles({ pathColor: "green", trailColor: "#9BF2EA", pathTransitionDuration: 0.5 })}>
                         <img src={item.icon} className='iconSills' alt="" />
                     </CircularProgressbarWithChildren>
                     </div>

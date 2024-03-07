@@ -27,7 +27,7 @@ function portfolio() {
                     </li>
                 </ul>
             </nav>
-            <div>
+            <div className='content'>
                 {activeSection === 'education' && <Education />}
                 {activeSection === 'skills' && <Skills />}
             </div>

@@ -10,7 +10,7 @@ function about() {
             <div className="aboutInfo">
                 <div className='sobreMi'>
                     <p>Nací en Buenos Aires, Argentina en el año <strong>1990</strong>. Al finalizar el secundario estudié <strong>"Diseño Gráfico"</strong>. Una carrera que me formó para diseñar la imagen de las empresas, crear logotipos, folletos, packaging, entre otras.
-                    Unos años después, decidí incorporarme en el mundo IT. En el 2023 me gradué con el curso de <strong>"Desarrollo web full Stack - MERN"</strong>, el cual me dió las herramientas necesarias para desarrollar aplicaciones y sitios web respondiendo a los intereses de los clientes.</p>
+                    Unos años después, decidí incorporarme en el mundo IT. En el 2023 me gradué con el curso de <strong>"Desarrollo web full Stack - MERN"</strong>, el cual me dio las herramientas necesarias para desarrollar aplicaciones y sitios web respondiendo a los intereses de los clientes.</p>
                     <button className="btnCV">
                         <a href={cvPdf} target="_blank">DESCARGÁ MI CV</a>
                     </button>

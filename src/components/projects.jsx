@@ -1,5 +1,6 @@
 import React from 'react'
-import proyects from '../data/proyects.json'
+import proyects from '../data/proyects.json';
+import skillsData from '../data/skills.json';
 import { BsGithub } from 'react-icons/bs'
 import { TbWorld } from 'react-icons/tb'
 
@@ -15,16 +16,19 @@ const projects = () => {
                             <h3 className='title'>{item.name}</h3>
                             <div className="links">
                                 <button className="btnL">
-                                    <a href=""> <BsGithub size={30} /></a>
+                                    <a href={item.github}> <BsGithub size={30} /></a>
                                 </button>
                                 <button className="btnL">
-                                    <a href=""> <TbWorld size={30} /></a>
+                                    <a href={item.url}> <TbWorld size={30} /></a>
                                 </button>
                             </div>
                             <p className="text">{item.description}</p>
-
+                            <div className="tools">
+                                {item.tools.map((tools, index) => (
+                                    <img key={index} className='iconTools' src={tools} alt={`Tool ${index + 1}`} />
+                                ))}
+                            </div>
                         </div>
-
                     </div>
                 ))}
             </div>
